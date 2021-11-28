@@ -1,4 +1,5 @@
-Hello 👋, I'm JeppePort. Will soon be studying for a degree in economics.
+Hello 👋, I'm JeppePort. 
+I Will soon be studying for a degree in economics.
 
 My experience is in;
  - Python
