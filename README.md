@@ -13,6 +13,8 @@ My experience is in;
 
 Qualifiications;
 
- - A-Level in electronic engineering
+ - A-Level in Electronic Engineering
+ - A-Level in Sociology
+ - BTEC in Music Technology
  - GCSE in Computer Science
-
+ - GCSE in Geogoraphy 
