@@ -1,6 +1,6 @@
 Hello 👋, I'm JeppePort. 
 
-I Will soon be studying for a degree in economics.
+I Will soon be studying for a degree in mathematics.
 
 My experience is in;
  - Python
