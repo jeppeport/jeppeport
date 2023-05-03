@@ -1,4 +1,4 @@
-Hello 👋, I'm JeppePort. 
+Hello 👋, I'm Ames.
 
 I am currently studying for a degree in mathematics.
 
